@@ -40,7 +40,7 @@ Here’s how the site looks:
 ## 📬 Connect with Me
 
 I'd love to connect! Feel free to reach out:  
-🔗 [LinkedIn](https://linkedin.com/in/vishesh_1207)  
+🔗 [LinkedIn](https://linkedin.com/in/vishesh1207)  
 🐱 [GitHub](https://github.com/visheshb1207)
 
 ---
